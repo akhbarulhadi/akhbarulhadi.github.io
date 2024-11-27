@@ -5,17 +5,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>View Resume</title>
+  <style>
+    /* Gaya umum untuk halaman */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #072e62;
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+    }
+
+    main {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    iframe {
+      display: block;
+      margin: 2rem auto;
+      border: 1px solid #ccc;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+  </style>
 </head>
 <body>
-  <h1>Curriculem Vitae Viewer</h1>
-  <p>Here is the document:</p>
-
-  <!-- Menampilkan file PDF -->
-  <iframe 
-    src="Akhbar's Curriculum Vitae Resume (NEW).pdf" 
-    width="100%" 
-    height="600px" 
-    style="border: none;">
-  </iframe>
+  <header>
+    <h1>Akhbar's Curriculum Vitae</h1>
+  </header>
+  <main>
+    <p>Below is the resume document. Please scroll to view the entire file.</p>
+    <!-- Menampilkan file PDF -->
+    <iframe 
+      src="Akhbar's Curriculum Vitae Resume.pdf" 
+      width="100%" 
+      height="600px">
+    </iframe>
+  </main>
 </body>
 </html>
