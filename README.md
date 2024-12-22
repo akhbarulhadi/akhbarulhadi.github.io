@@ -146,15 +146,15 @@ cd ngrok http 5000
 <table>
 <tr>
    
-<td align="center"><a href="https://github.com/tiyosptr"><img src="img/krishnendu DG.png" width=130px height=130px /></a></br> <h4 style="color:red;">Tiyo Saputra</h4>
+<td align="center"><a href="https://github.com/tiyosptr"><img src="https://avatars.githubusercontent.com/u/114565629?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Tiyo Saputra</h4>
  <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
 
-<td align="center"><a href="https://github.com/ibnuprm"><img src="img/Ekta.jfif" width=130px height=130px /></a></br> <h4 style="color:red;">Ibnu Pramudita</h4>
+<td align="center"><a href="https://github.com/ibnuprm"><img src="https://avatars.githubusercontent.com/u/112567075?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Ibnu Pramudita</h4>
  <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
 
-<td align="center"><a href="https://github.com/BintangGusti"><img src="img/GhanshyamNewPic.jpg" width=130px height=130px /></a></br> <h4 style="color:red;">Bintang Gusti</h4>
+<td align="center"><a href="https://github.com/BintangGusti"><img src="https://avatars.githubusercontent.com/u/125195054?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Bintang Gusti</h4>
  <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
 
@@ -162,7 +162,7 @@ cd ngrok http 5000
  <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
 
-<td align="center"><a href="https://github.com/damarjati22"><img src="img/GhanshyamNewPic.jpg" width=130px height=130px /></a></br> <h4 style="color:red;">Damarjati</h4>
+<td align="center"><a href="https://github.com/damarjati22"><img src="https://avatars.githubusercontent.com/u/136256927?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Damarjati</h4>
  <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
 </tr>
