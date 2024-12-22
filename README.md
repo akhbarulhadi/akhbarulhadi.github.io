@@ -13,7 +13,7 @@
 
  <h2>Hi there👋, Welcome to the Apple Repair Training Platform! </h2>
 
-<p>Hello Guys!!👨‍💻<br> We're PBL-TRPL501, a team of aspiring Web developers 🤖. This project is dedicated to enhancing the user experience in training programs aimed at improving skills in Apple product repairs. <br> Our application simplifies discussions between users and instructors, ensuring seamless interaction and access to comprehensive training materials. Explore, learn, and elevate your repair expertise with ease! </p>
+<p>We're PBL-TRPL501, a team of aspiring Web developers 🤖. <br> This project is dedicated to enhancing the user experience in training programs aimed at improving skills in Apple product repairs. <br> Our application simplifies discussions between users and instructors, ensuring seamless interaction and access to comprehensive training materials. Explore, learn, and elevate your repair expertise with ease! </p>
 
 
 <!--line-->
