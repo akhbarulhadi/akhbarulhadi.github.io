@@ -53,7 +53,7 @@
 
 <h2>Technology Used🚀</h2>
 
-<img height=50 src = "https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/rteicon.png" >
+<img height=50 src = "https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/rtemicon.png" >
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
