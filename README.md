@@ -30,7 +30,7 @@
 - [Project Team⚡](#project-team)
 <br>
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 <h2>Overview📌</h2>
 <p>This repository contains my project on a Travel Website✈️ using HTML, CSS and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
@@ -41,7 +41,7 @@
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 ## Features🌟
 
@@ -49,7 +49,7 @@
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 <h2>Technology Used🚀</h2>
 
@@ -57,7 +57,7 @@
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 
 <h2>Getting Started💥</h2>
@@ -133,7 +133,7 @@ cd ngrok http 5000
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 
 <div align="center">
@@ -167,17 +167,13 @@ cd ngrok http 5000
 </td>
 </tr>
 </table>
-
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
   
 </div>
 
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 ## License
 
