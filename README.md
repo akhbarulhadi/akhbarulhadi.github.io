@@ -66,7 +66,7 @@
 
 **1.** Start by main branch the [**Applenesia**](https://github.com/akhbarulhadi/pbl_semester_5) repository. Click on the <a href="https://github.com/akhbarulhadi/pbl_semester_5/branches"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
-**2.** Clone your main branch repository:
+**2.** Clone main branch repository:
 
 ```bash
 git clone https://github.com/akhbarulhadi/pbl_semester_5.git
