@@ -26,12 +26,8 @@
 - [Overview📌](#overview)
 - [Features🌟](#features)
 - [Technology Used🚀](#technology-used)
-- [Open-Source-Programmes⭐](#open-source-programmes)
 - [Getting Started💥](#getting-started)
-- [Contributing Guidelines📑](#contributing-guidelines)
-- [Code Of Conduct📑](#code-of-conduct)
-- [Project Admin⚡](#project-admin)
-- [Contributing is fun🧡](#contributing-is-fun)
+- [Project Team⚡](#project-team)
 <br>
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -139,28 +135,13 @@ cd ngrok http 5000
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>Contributing Guidelines📑</h2>
-
-To learn about our development process, how to propose bug fixes and improvements of our project please read our [Contributing Guidelines.](https://github.com/apu52/Travel_Website/blob/main/CONTRIBUTING.md)
-
-
-<h2>Code Of Conduct📑</h2>
-
-This project and everyone participating in it are governed by the [Code of Conduct](https://github.com/apu52/Travel_Website/blob/main/Code_of_conduct.md). By participating, you are expected to uphold this code.
-
-</br>
-<p align = "center">
-Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repository.
-</p>
 
 <div align="center">
 
 <div align="center">
+
    
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-   
-## Project Mentor
+## Project Team
 
 <table>
 <tr>
@@ -186,43 +167,10 @@ Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- # Project Admin⚡
- 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/apu52"><img src="img/Apu.jpeg" width=150px height=150px /></a></br> <h4 style="color:red;">Arpan Chowdhury</h4>
- <a href="https://www.linkedin.com/in/arpan-chowdhury-775294251/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
-   </td>
-
-</tr>
-</table>
   
 </div>
 
 
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## Contributing is fun🧡
-<p align ="center">
-  <img src="https://github.com/shruti-sen2004/Travel_Website/assets/115914670/d544fd3b-aed2-4a05-a2f8-0b7a2ff9014f" width="700" height= "250" />
-</p>
-
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## Acknowledgements
-
-Thank you to all the amazing contributors who have made this project possible! 💝
-
-<p align ="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/apu52/repositories/Travel_Website/contributors?format=svg&limit=54" width="700" height= "250" />
-</p>
-
-<a href="https://github.com/apu52/Travel_Website/graphs/contributors">
-  <img align="center" src="https://contrib.rocks/image?max=100&repo=apu52/Travel_Website" />
-</a> 
-<br><br>
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
