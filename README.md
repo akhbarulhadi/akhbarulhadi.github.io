@@ -11,10 +11,9 @@
   <img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/applenesia.png" alt="Applenesia Logo">
 </div>
 
- <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
+ <h2>Hi there👋, Welcome to the Apple Repair Training Platform! </h2>
 
-
-<p>Hello Coders!!👨‍💻<br> I am Arpan Chowdhury, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
+<p>Hello Guys!!👨‍💻<br> We're PBL-TRPL501, a team of aspiring Web developers 🤖. This project is dedicated to enhancing the user experience in training programs aimed at improving skills in Apple product repairs. <br> Our application simplifies discussions between users and instructors, ensuring seamless interaction and access to comprehensive training materials. Explore, learn, and elevate your repair expertise with ease! </p>
 
 
 <!--line-->
