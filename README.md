@@ -19,7 +19,7 @@
 
 <div id="top"></div>
 <!--line-->
-<img src="" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 <h2>Table of Contents🧾</h2>
 
