@@ -63,7 +63,7 @@
 <h2>Getting Started💥</h2>
 
 
-## How to make a Run Project React (For Frontend)?
+## How to Run Project React (For Frontend)?
 
 **1.** Start by main branch the [**Applenesia**](https://github.com/akhbarulhadi/pbl_semester_5) repository. Click on the <a href="https://github.com/akhbarulhadi/pbl_semester_5/branches"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
@@ -94,7 +94,7 @@ git npm start
 **6.** Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-## How to make a Run Project Express (For Backend)?
+## How to Run Project Express (For Backend)?
 
 **1.** Navigate to the new project express directory:
 
