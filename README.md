@@ -154,7 +154,7 @@ cd ngrok http 5000
 </td>
 
 <td align="center"><a href="https://github.com/BintangGusti"><img src="https://avatars.githubusercontent.com/u/125195054?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Bintang Gusti</h4>
- <a href=""><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
+ <a href="#"><img src="https://img.icons8.com/fluency/2x/github.png" width="32px" height="32px"></img></a>
 </td>
 
 <td align="center"><a href="https://github.com/akhbarulhadi"><img src="https://avatars.githubusercontent.com/u/129871091?v=4" width=130px height=130px /></a></br> <h4 style="color:red;">Akhbarul Hadi</h4>
