@@ -15,11 +15,8 @@
 <p>Hello Coders!!👨‍💻<br> I am Arpan Chowdhury, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
 
 
-
-
-<div id="top"></div>
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
 
 <h2>Table of Contents🧾</h2>
 
