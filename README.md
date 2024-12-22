@@ -1,4 +1,4 @@
-# <p align="center">✨Travel Website✨</p>
+# <p align="center">✨Pbl Semester 5 ✨</p>
 <p align="center">
    
 <div align="center"> 
@@ -13,15 +13,7 @@
  <div align="center">
  <p>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=apu52%2FTravel_Website%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/apu52/Travel_Website)
-![GitHub Repo stars](https://img.shields.io/github/stars/apu52/Travel_Website)
-![GitHub last commit](https://img.shields.io/github/last-commit/apu52/Travel_Website)
-![GitHub repo size](https://img.shields.io/github/repo-size/apu52/Travel_Website)
-![Github](https://img.shields.io/github/license/apu52/Travel_Website)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/apu52/Travel_Website)
+
 
  </p>
  </div>
@@ -58,37 +50,23 @@
 
 <h2>Live Demo</h2>
 
-Check out the live project [here](https://apu52.github.io/Travel_Website/).
+<p style="color: grey;">None Demo</p>
 
-<p align="center">
-  <img src="https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199" alt="Live Demo">
-</p>
+
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Features🌟
 
-- **🌐 Introductory Page**: 
-  Welcomes visitors with an engaging introductory page that highlights the essence of our travel website and sets the tone for exploration.
+<p style="color: grey;">None Features</p>
 
-- **📍 Top Destination Page**: 
-  Showcases top travel destinations with captivating imagery, detailed descriptions, and essential information to inspire and inform visitors.
-
-- **✈️ Best Trip Packages**: 
-  Presents the best trip packages tailored to different interests and budgets, complete with itinerary details, pricing, and booking options for seamless travel planning.
-
-- **📸 Our Trip Gallery**: 
-  Curates a visually stunning gallery showcasing memorable moments and experiences from our trips, enticing visitors to embark on their own adventures. Includes interactive features such as user comments.
-
-- **📞 Contact Us Page**: 
-  Provides a user-friendly contact page with essential contact information, inquiry forms, and interactive maps for visitors to reach out and engage with our travel company effortlessly.
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Technology Used🚀</h2>
 
-<img height=50 src = "https://skillicons.dev/icons?i=html,css,js" >
+<img height=50 src = "https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/rteicon.png" >
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
@@ -96,99 +74,78 @@ Check out the live project [here](https://apu52.github.io/Travel_Website/).
 
 <h2>Open-Source-Programmes⭐</h2>
 
- ### This project is now OFFICIALLY accepted for
+<p style="color: grey;">None</p>
 
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee5c5ce7-b244-4e10-a91f-068f17a33609" alt="GSSOC" width="80%">
-</div>
-
-
-### This project was part of following Open Source Programs
-
-
- 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/05ad17cd-64fe-4993-adfc-78c10071b688" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5c3ca05d-0fac-43cc-ada6-0453be9ca0e2" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/50649a4b-669d-4d32-b771-200da207d853" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/VSOC new.png" alt="VSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/JWOC.png" alt="JWOC" width="50%">
-</div>
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Getting Started💥</h2>
 
-<h3>Local Installation video</h3>
 
-[video](https://drive.google.com/file/d/1LsBudIUtZLDMSlmBDdOfT001QRqGBSbN/view?usp=sharing)
+## How to make a Run Project React (For Frontend)?
 
-
-## How to make a Pull Request?
-
-**1.** Start by forking the [**Travel_Website**](https://github.com/apu52/Travel_Website) repository. Click on the <a href="https://github.com/apu52/Travel_Website/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by forking the [**Applenesia**](https://github.com/akhbarulhadi/pbl_semester_5) repository. Click on the <a href="https://github.com/apu52/Travel_Website/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your forked repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/Travel_Website
+git clone https://github.com/akhbarulhadi/pbl_semester_5.git
 ```
 
-**3.** Navigate to the new project directory:
+**3.** Navigate to the new project react directory:
 
 ```bash
-cd Travel_Website
+cd pbl_semester_5
 ```
 
-**4.** Set upstream command:
+**4.** Before you start after clone this project you can run:
 
 ```bash
-git remote add upstream https://github.com/apu52/Travel_Website
+git npm install
 ```
 
-**5.** Create a new branch:
+**5.** In the project directory, you can run:
 
 ```bash
-git checkout -b YourBranchName
+git npm start
 ```
 
-<i>or</i>
+**6.** Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+## How to make a Run Project Express (For Backend)?
+
+**1.** Navigate to the new project express directory:
 
 ```bash
-git branch YourBranchName
-git switch YourBranchName
+cd cd server
 ```
 
-**6.** Sync your fork or local repository with the origin repository:
-
-- In your forked repository click on `Fetch upstream`.
-- Click `Fetch and merge`.
-
-### Alternatively, Git CLI way to Sync forked repository with origin repository:
+**2.** Before you start after navigate this project you can run:
 
 ```bash
-git fetch upstream
+git npm install
+```
+
+**3.** In the project directory, you can run:
+
+```bash
+git npm run dev
+```
+
+### Also you can use 'ngrok' for get url public:
+
+```bash
+cd server
 ```
 
 ```bash
-git merge upstream/main
+git ngrok authtoken THISYOURTOKEN
+```
+
+```bash
+cd ngrok http 5000
 ```
 
 ### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
