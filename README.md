@@ -7,8 +7,9 @@
     </h1>
 </div>
 
+<div align="center"> 
 ![image](https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/applenesia.png)
-
+</div>
 
  <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
 
