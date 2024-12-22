@@ -7,6 +7,8 @@
     </h1>
 </div>
 
+<!-- ![image](https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199) -->
+
  <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
 
 
@@ -61,22 +63,15 @@
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>Open-Source-Programmes⭐</h2>
-
-<p style="color: grey;">None</p>
-
-
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Getting Started💥</h2>
 
 
 ## How to make a Run Project React (For Frontend)?
 
-**1.** Start by forking the [**Applenesia**](https://github.com/akhbarulhadi/pbl_semester_5) repository. Click on the <a href="https://github.com/apu52/Travel_Website/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by main branch the [**Applenesia**](https://github.com/akhbarulhadi/pbl_semester_5) repository. Click on the <a href="https://github.com/akhbarulhadi/pbl_semester_5/branches"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
-**2.** Clone your forked repository:
+**2.** Clone your main branch repository:
 
 ```bash
 git clone https://github.com/akhbarulhadi/pbl_semester_5.git
@@ -137,33 +132,8 @@ git ngrok authtoken THISYOURTOKEN
 cd ngrok http 5000
 ```
 
-### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
 
-**7.** Make your changes to the source code.
-
-**8.** Stage your changes and commit:
-
-⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
-
-⚠️ **Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
-
-```bash
-git add file/folder
-```
-
-```bash
-git commit -m "<your_commit_message>"
-```
-
-**9.** Push your local commits to the remote repository:
-
-```bash
-git push origin YourBranchName
-```
-
-**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
-
- **Congratulations! You've made your first contribution! 🙌🏼**
+ **Congratulations! 🙌🏼**
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 <!--line-->
