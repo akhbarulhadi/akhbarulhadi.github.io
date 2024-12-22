@@ -26,7 +26,7 @@
 - [Features🌟](#features)
 - [Technology Used🚀](#technology-used)
 - [Getting Started💥](#getting-started)
-- [Project Team⚡](#project-team)
+- [Team Project⚡](#team-project)
 <br>
 <!--line-->
 <img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/animated-line-image.gif" width="1920" />
@@ -140,7 +140,7 @@ cd ngrok http 5000
 <div align="center">
 
    
-## Project Team
+## Team Project
 
 <table>
 <tr>
