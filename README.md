@@ -3,29 +3,13 @@
    
 <div align="center"> 
     <h1> 
-      <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=470&lines=Welcome+to+Our+PBL!;" alt="Typing SVG"/> 
+      <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=470&lines=Welcome+to+Our+PBL!;" alt="Title"/> 
     </h1>
 </div>
 
-![image](https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/applenesia.png)
-
-
- <div align="center">
- <p>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=apu52%2FTravel_Website%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/apu52/Travel_Website)
-![GitHub Repo stars](https://img.shields.io/github/stars/apu52/Travel_Website)
-![GitHub last commit](https://img.shields.io/github/last-commit/apu52/Travel_Website)
-![GitHub repo size](https://img.shields.io/github/repo-size/apu52/Travel_Website)
-![Github](https://img.shields.io/github/license/apu52/Travel_Website)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/apu52/Travel_Website)
-
- </p>
- </div>
- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akhbarulhadi/akhbarulhadi.github.io/refs/heads/master/applenesia.png" alt="Applenesia Logo">
+</div>
 
  <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
 
