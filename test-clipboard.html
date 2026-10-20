@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Clipboard History Accumulator</title>
+</head>
+<body style="font-family: Arial; padding: 30px;">
+    <h2>Uji Coba Riwayat Clipboard Otomatis</h2>
+    <p>Cukup <b>klik di mana saja</b> pada halaman ini, atau pindah tab lalu kembali ke sini. Data tidak akan terhapus!</p>
+    
+    <button id="clearBtn" style="padding: 8px 15px; background: #ff4d4d; color: white; border: none; cursor: pointer; border-radius: 4px; margin-bottom: 10px;">Hapus Riwayat</button>
+
+    <!-- Kotak penampung riwayat -->
+    <div id="output" style="background: #f4f4f4; padding: 15px; border: 1px solid #ccc; min-height: 150px; max-height: 300px; overflow-y: auto; font-family: monospace;">
+        <em>Belum ada clipboard yang terbaca...</em>
+    </div>
+
+    <script>
+        const output = document.getElementById('output');
+        const clearBtn = document.getElementById('clearBtn');
+        
+        // Array untuk menyimpan riwayat teks
+        let clipboardHistory = [];
+
+        async function readClipboard() {
+            try {
+                const text = await navigator.clipboard.readText();
+                
+                // Cek apakah teks sudah ada di riwayat atau kosong agar tidak duplikat berturut-turut
+                if (text && clipboardHistory[0] !== text) {
+                    // Masukkan teks baru ke URUTAN PALING ATAS (atau ubah posisinya jika ingin di bawah)
+                    clipboardHistory.unshift(text);
+                    
+                    // Tampilkan semua riwayat yang terkumpul ke layar
+                    renderHistory();
+                }
+            } catch (err) {
+                // Abaikan error fokus sementara agar tidak memenuhi log
+            }
+        }
+
+        function renderHistory() {
+            if (clipboardHistory.length === 0) {
+                output.innerHTML = "<em>Belum ada clipboard yang terbaca...</em>";
+                return;
+            }
+            
+            // Gabungkan semua riwayat dengan garis pemisah
+            output.innerHTML = clipboardHistory.map((item, index) => 
+                `<b>[${clipboardHistory.length - index}]</b>: ${escapeHtml(item)}<hr style="border: 0; border-top: 1px dashed #ccc; margin: 8px 0;">`
+            ).join('');
+        }
+
+        // Fungsi pembantu untuk keamanan karakter HTML
+        function escapeHtml(text) {
+            return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+
+        // Tombol untuk mereset riwayat
+        clearBtn.addEventListener('click', () => {
+            clipboardHistory = [];
+            renderHistory();
+        });
+
+        // 1. Membaca otomatis saat pengguna MENGKLIK DI MANA SAJA
+        document.addEventListener('click', () => {
+            readClipboard();
+        });
+
+        // 2. Membaca otomatis saat tab KEMBALI DIFOKUSKAN
+        window.addEventListener('focus', () => {
+            readClipboard();
+        });
+    </script>
+</body>
+</html>
