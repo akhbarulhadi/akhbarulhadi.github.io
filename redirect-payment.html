@@ -1,19 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Wait...</title>
-  <script>
-    // Fungsi untuk melakukan redirect setelah 3 menit (180000 ms)
-    setTimeout(function(){
-      window.location.href = "http://localhost:3000/pengguna/kursus"; // Ganti dengan URL tujuan
-    }, 2000); // 3 menit = 180.000 milidetik
-  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mengalihkan...</title>
+  <meta http-equiv="refresh" content="1; url=http://127.0.0.1:8000" />
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 24px;
+    }
+    .card {
+      max-width: 440px;
+      width: 100%;
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      padding: 24px;
+      text-align: center;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.15rem;
+    }
+    p {
+      margin: 0 0 18px;
+      font-size: 0.92rem;
+      color: #cbd5e1;
+      line-height: 1.5;
+    }
+    code {
+      background: #0f172a;
+      padding: 2px 6px;
+      border-radius: 6px;
+      color: #38bdf8;
+    }
+    a.btn {
+      display: inline-block;
+      text-decoration: none;
+      background: #2563eb;
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 10px 16px;
+      border-radius: 8px;
+    }
+    a.btn:hover {
+      background: #1d4ed8;
+    }
+  </style>
 </head>
 <body>
-  <h1>Wait a seconds</h1>
-  <p>Please wait, you will be redirected to another page soon.</p>
+  <main class="card">
+    <h1>Mengalihkan</h1>
+    <p>
+      Tujuan: <code id="target-url">http://127.0.0.1:8000</code>.<br />
+      Pastikan server lokal kamu sedang berjalan di perangkat ini.
+    </p>
+    <a id="manual-link" class="btn" href="http://127.0.0.1:8000">Buka Sekarang</a>
+  </main>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const defaultTarget = "http://127.0.0.1:8000";
+
+    // Izinkan override path/url lewat query ?path=/admin/dashboard atau ?target=http://localhost:8000
+    let destination = defaultTarget;
+    const customTarget = params.get("target");
+    const customPath = params.get("path");
+
+    if (customTarget && /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?(\/.*)?$/i.test(customTarget)) {
+      destination = customTarget;
+    } else if (customPath && customPath.startsWith("/")) {
+      destination = defaultTarget + customPath;
+    }
+
+    document.getElementById("target-url").textContent = destination;
+    document.getElementById("manual-link").href = destination;
+
+    setTimeout(() => {
+      window.location.replace(destination);
+    }, 300);
+  </script>
 </body>
 </html>
